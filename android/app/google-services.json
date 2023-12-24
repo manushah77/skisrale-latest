@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "783154946229",
+    "project_id": "skisrael-ed189",
+    "storage_bucket": "skisrael-ed189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783154946229:android:80e031659a36c666acdefc",
+        "android_client_info": {
+          "package_name": "com.jeuxdevelopers.skisreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783154946229-a8aggvs52phf98f6nk8faud3gp20v1em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeuxdevelopers.skisreal",
+            "certificate_hash": "1fbfd831f6987db1b0ab47a2076c54ee940f3f34"
+          }
+        },
+        {
+          "client_id": "783154946229-30co2r6odom90ftvernk1j2rs9n6dv6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLZXbVg0AXGB0dVSYNMTkagxqE1souK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783154946229-30co2r6odom90ftvernk1j2rs9n6dv6r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783154946229-jv6mduqk7koqqf3507i6blrir2mn2s52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeuxdevelopers.skisreal.skisreal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783154946229:android:619f8e0fa80b3b8aacdefc",
+        "android_client_info": {
+          "package_name": "com.jeuxdevelopers.skisreal.skisreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783154946229-30co2r6odom90ftvernk1j2rs9n6dv6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLZXbVg0AXGB0dVSYNMTkagxqE1souK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783154946229-30co2r6odom90ftvernk1j2rs9n6dv6r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783154946229-jv6mduqk7koqqf3507i6blrir2mn2s52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeuxdevelopers.skisreal.skisreal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

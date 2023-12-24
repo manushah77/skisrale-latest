@@ -1,0 +1,7 @@
+<resources>
+    <string name="facebook_app_id">825477915886685</string>
+    <string name="fb_login_protocol_scheme">fb825477915886685</string>
+    <string name="facebook_client_token">8c579e65092d3157ea653c06beb1a23f</string>
+    <string name="default_notification_channel_id">com.jeuxdevelopers.skisreal</string>
+
+</resources>
